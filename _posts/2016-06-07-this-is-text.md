@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is Text
-datePublished: '2016-06-07T21:12:01.785Z'
-dateModified: '2016-06-07T21:11:36.509Z'
+datePublished: '2016-06-07T21:13:59.833Z'
+dateModified: '2016-06-07T21:12:10.178Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-07-this-is-text.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-07-this-is-text.md
 url: this-is-text/index.html
 _type: Article
 
